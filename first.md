@@ -9,3 +9,6 @@ git branch branch_name - создает ветку
 
 ## test
 Список log веток
+
+## gitignore
+![Небоскреб](picture.jpg)
