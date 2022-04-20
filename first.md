@@ -23,11 +23,5 @@ git branch branch_name - создает ветку
 
 
 
-
-
-
-
-
-
 # Git status
 git status - команда показывает отстлеживает ли git файл или нет
