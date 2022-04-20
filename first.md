@@ -4,8 +4,8 @@
 git branch - выводит список веток
 git branch branch_name - создает ветку
 ## MD commands
-
-
-## MD commands
 (#) - заголовок
 (*) - список
+
+## test
+Список log веток
