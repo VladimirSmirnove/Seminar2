@@ -20,3 +20,11 @@ git branch branch_name - создает ветку
 # Git config
 git gonfig --global user.name "My name" -команда для добавления имени в git
 git gonfig --global user.email "My_email" -команда для добавления почты в git
+
+
+
+
+
+
+# Git init
+git init - создание нового репизитория
