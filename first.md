@@ -12,6 +12,7 @@ git branch branch_name - создает ветку
 
 ## gitignore
 ![Небоскреб](picture.jpg)
+![dsafdas](YYGCYVJ2WZg.jpg)
 
 # Домашнее задание 
 
